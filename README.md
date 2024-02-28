@@ -32,7 +32,7 @@ This simple weather app allows users to check the current weather of a specific 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/mdsahban/weather-app-js/blob/main/images/Weather%20App%20.png)
 
 
 ## Live Demo
