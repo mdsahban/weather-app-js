@@ -13,7 +13,7 @@ body {
     width: 100vw;
     display: flex;
     justify-content: center;
-    padding: 50px 50px;
+    padding: 50px 5px;
     transition: transform 0.6s;
 
 }
@@ -171,7 +171,7 @@ body {
     display: flex;
     justify-content: space-between;
     text-align: center;
-    padding: 10px 80px 0px 80px;
+    padding: 10px 60px 0px 60px;
 }
 
 .temp2 h1,
